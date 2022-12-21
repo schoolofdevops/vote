@@ -4,7 +4,7 @@ This is a frontend app, part of [Example Voting App](https://github.com/schoolof
 
 To build and run this app as a container, 
 
-  * use `python:2.7-alpine` container base image
+  * use `python:alpine3.17` container base image
   * map/expose `container port 80`
   * copy over the source code 
   * run `pip install -r requirements.txt` to install dependencies
